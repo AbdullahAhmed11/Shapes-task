@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import Picture from "./ItemsTypes";
 import { useDrop } from "react-dnd";
 import Rectangle from "./Shapes/Rectangle";
 import Cube from "./Shapes/circle";
